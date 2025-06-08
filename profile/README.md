@@ -25,4 +25,52 @@ The research focus is to implement and optimize the LSTM method to predict the A
 This project originated from the concern of one of our team members regarding illegal waste burning by the community in Yogyakarta, in addition to the primary factors of vehicle activity and urbanization. This is because the results of waste burning increasingly increase harmful pollutants such as PM2.5, PM10, and SO₂. 
 Since there is currently no real-time air pollution monitoring system in place, this project proposes the use of an LSTM to predict real-time air quality indices by leveraging the temporal patterns of historical data from the Yogyakarta Environmental Agency in 2021. The predicted results are expected to serve as the basis for an early warning system and policy recommendations, such as bans on burning during critical air quality conditions.
 
+# Analisis Pasar
 
+## Pasar Target
+
+- Rentang usia, Profesi, Hobi, dan lain sebagainya.
+    - Rentang Usia: 18 – 45 tahun
+    - Profesi: Mahasiswa, pekerja kantoran, data scientist pemula, peneliti lingkungan, dan pemangku kepentingan di bidang kesehatan atau lingkungan
+    - Hobi: Teknologi, lingkungan hidup, pemantauan kualitas udara, visualisasi data
+    - Karakteristik: Terbiasa dengan platform digital, ingin mengambil keputusan berbasis data, peduli terhadap kesehatan dan lingkungan sekitar.
+- Mengapa target pasar Anda membutuhkan solusi Anda?
+    - Didorong oleh tujuan.
+      Kebutuhan untuk mengetahui tingkat polusi udara di lokasi tertentu secara real-time guna mencegah risiko kesehatan dan mengubah kebiasaan harian (misal: memilih tidak berolahraga/beraktivitas di luar saat kualitas udara buruk).
+    - Didorong oleh data.
+      Tren kualitas udara yang memburuk di berbagai kota Indonesia (misalnya Jakarta, Bandung, dan Yogyakarta) mendorong kebutuhan akan alat prediksi berbasis machine learning.
+    - Alasan Kebijakan Pemerintah.
+      Pemerintah melalui Kementerian Lingkungan Hidup dan Kehutanan (KLHK) mendorong penggunaan teknologi dalam pengawasan kualitas udara. Solusi ini sejalan dengan misi tersebut dan dapat menjadi pendukung kebijakan berbasis data.
+- Stakeholder  yang terkait dan mendapat manfaat dari solusi Anda.
+    - Masyarakat umum (pengguna akhir)
+    - Dinas lingkungan hidup daerah
+    - Startup IoT/Smart City
+    - Pengembang aplikasi kesehatan dan gaya hidup
+    - Peneliti dan akademisi
+    - Pemerintah daerah
+
+# Analisis SWOT dari proyek
+
+## Kekuatan
+Model prediksi menggunakan LSTM dapat memberikan estimasi masa depan, bukan hanya kondisi saat ini.
+Dapat diintegrasikan dengan IoT atau dashboard monitoring.
+Open-source dan bisa dikembangkan lebih lanjut.
+Edukatif untuk akademisi atau pelatihan ML lingkungan.
+
+## Kelemahan
+Bergantung pada kualitas dataset dan preprocessing.
+Perlu integrasi API atau data sensor real-time untuk operasional skala besar.
+Belum banyak diuji dalam skenario dunia nyata.
+
+## Peluang
+Bisa dikembangkan menjadi platform SaaS untuk pemda atau masyarakat umum.
+Potensi kolaborasi dengan startup Smart City dan GreenTech.
+Mendukung program transisi energi dan kota sehat.
+Dapat digunakan untuk penelitian perubahan iklim mikro.
+
+## Ancaman
+Ketergantungan terhadap data eksternal (API bisa tutup atau berbayar).
+Kompetitor besar bisa mengembangkan fitur serupa.
+Risiko kurangnya adopsi jika tidak disosialisasikan dengan tepat.
+
+![image](https://github.com/user-attachments/assets/8867ee29-eb99-43db-b9cf-19815860403a)
