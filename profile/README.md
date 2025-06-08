@@ -74,3 +74,10 @@ Kompetitor besar bisa mengembangkan fitur serupa.
 Risiko kurangnya adopsi jika tidak disosialisasikan dengan tepat.
 
 ![image](https://github.com/user-attachments/assets/8867ee29-eb99-43db-b9cf-19815860403a)
+
+# Authors
+
+- [@rmdhaniap](https://github.com/rmdhaniap)
+- [@dewiryori](https://github.com/dewiryori)
+- [@NaufalNurFahriza](https://github.com/NaufalNurFahriza)
+- [@ayuamara31](https://github.com/ayuamara31)
